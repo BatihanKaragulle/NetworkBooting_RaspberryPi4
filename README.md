@@ -1,4 +1,4 @@
-## PXE 
+# PXE 
 
 At the beginning we have to use an SD card with Raspbian Operating System installed in our Raspberry Pi just for setup.
 
