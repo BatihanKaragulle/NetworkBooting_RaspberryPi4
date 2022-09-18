@@ -1,6 +1,6 @@
 At the beginning we have to use an SD card with Raspbian Operating System installed in our Raspberry Pi just for setup.
 
-SSH Connection and Configuration of Raspberry Pi
+#SSH Connection and Configuration of Raspberry Pi
 
 To configure our Raspberry Pi first we have to establish a connection and a network between our Server PC. For this project’s purpose a network connection through ethernet cable is sufficient. 
 
