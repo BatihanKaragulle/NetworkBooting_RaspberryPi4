@@ -83,7 +83,11 @@ After finishing all we have to do scan our network and there we can see our Rasp
 
 ### References
 https://networkboot.org/fundamentals/
+
 https://hackaday.com/2019/11/11/network-booting-the-pi-4/
+
 https://williamlam.com/2020/07/two-methods-to-network-boot-raspberry-pi-4.html
+
 https://codestrian.com/index.php/2020/02/14/setting-up-a-pi-cluster-with-netboot/
+
 https://www.raspberrypi.com/documentation/
